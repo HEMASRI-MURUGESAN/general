@@ -19,9 +19,6 @@
 ** localhost:8000/ **
 `localhost:8000`
 
-## Wiki
-Please view the [wiki](https://github.com/javedbaloch4/Laravel-Booking/wiki) for a list of features.
-
 House owners:
 - Can register for an account with an email address and a mobile number
 - Create / edit / delete rooms and their details, set the minimum, maximum booking period.
