@@ -1,4 +1,4 @@
-# Guest_room_booking
+
 ``` git  clone https://github.com/javedbaloch4/Laravel-Booking.git ```
 
 ``` Open .env file to configure your database name, host, and password ``` 
